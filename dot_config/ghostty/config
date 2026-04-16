@@ -44,7 +44,8 @@ clipboard-paste-protection = true
 clipboard-paste-bracketed-safe = true
 
 # --- Shell Integration ---
-shell-integration = detect
+command = /opt/homebrew/bin/fish
+shell-integration = fish
 
 # --- Keybindings ---
 # Tabs
