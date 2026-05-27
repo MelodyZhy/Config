@@ -22,5 +22,5 @@ function y() {
 }
 
 # bat
-export BAT_THEME="ansi"
+export BAT_THEME="Catppuccin Mocha"
 [ -f $HOME/.boxrc ] && source $HOME/.boxrc
